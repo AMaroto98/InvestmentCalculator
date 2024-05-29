@@ -10,7 +10,7 @@ Take control of your financial future with vite-investment-calculator - a powerf
 
 ## 🚀 Live Demo
 
-**Live Preview** ➡️ [Demo](#)
+**Live Preview** ➡️ [Demo](https://investment-calculator-five-peach.vercel.app/)
 
 ---
 
